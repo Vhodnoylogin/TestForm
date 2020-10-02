@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.AppTest" time="0.037" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.AppTest" time="0.057" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -7,7 +7,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1251"/>
-    <property name="java.class.path" value="C:\Users\Radimir\Documents\IdeaProjects\TestForm\target\test-classes;C:\Users\Radimir\Documents\IdeaProjects\TestForm\target\classes;C:\Users\Radimir\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Radimir\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\Radimir\Documents\IdeaProjects\TestForm\target\test-classes;C:\Users\Radimir\Documents\IdeaProjects\TestForm\target\classes;C:\Users\Radimir\.m2\repository\junit\junit\4.13\junit-4.13.jar;C:\Users\Radimir\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -18,8 +18,8 @@
     <property name="user.country" value="RU"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="D:\Program Files\Java\jdk1.8.0_66\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Radimir\AppData\Local\Temp\surefire4357360080281402264\surefirebooter7499723406899910711.jar C:\Users\Radimir\AppData\Local\Temp\surefire4357360080281402264 2020-10-02T23-54-57_508-jvmRun1 surefire7745735263722522787tmp surefire_03189187198820503641tmp"/>
-    <property name="surefire.test.class.path" value="C:\Users\Radimir\Documents\IdeaProjects\TestForm\target\test-classes;C:\Users\Radimir\Documents\IdeaProjects\TestForm\target\classes;C:\Users\Radimir\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Radimir\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.java.command" value="C:\Users\Radimir\AppData\Local\Temp\surefire1833100050482203351\surefirebooter1702073324997241497.jar C:\Users\Radimir\AppData\Local\Temp\surefire1833100050482203351 2020-10-03T00-33-26_296-jvmRun1 surefire5499417052690795933tmp surefire_0156518554178800240tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\Radimir\Documents\IdeaProjects\TestForm\target\test-classes;C:\Users\Radimir\Documents\IdeaProjects\TestForm\target\classes;C:\Users\Radimir\.m2\repository\junit\junit\4.13\junit-4.13.jar;C:\Users\Radimir\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Radimir"/>
     <property name="user.language" value="ru"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Radimir\AppData\Local\Temp\surefire4357360080281402264\surefirebooter7499723406899910711.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Radimir\AppData\Local\Temp\surefire1833100050482203351\surefirebooter1702073324997241497.jar"/>
     <property name="sun.boot.class.path" value="D:\Program Files\Java\jdk1.8.0_66\jre\lib\resources.jar;D:\Program Files\Java\jdk1.8.0_66\jre\lib\rt.jar;D:\Program Files\Java\jdk1.8.0_66\jre\lib\sunrsasign.jar;D:\Program Files\Java\jdk1.8.0_66\jre\lib\jsse.jar;D:\Program Files\Java\jdk1.8.0_66\jre\lib\jce.jar;D:\Program Files\Java\jdk1.8.0_66\jre\lib\charsets.jar;D:\Program Files\Java\jdk1.8.0_66\jre\lib\jfr.jar;D:\Program Files\Java\jdk1.8.0_66\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,5 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="org.example.AppTest" time="0.001"/>
+  <testcase name="shouldAnswerWithTrue" classname="org.example.AppTest" time="0.017"/>
 </testsuite>
